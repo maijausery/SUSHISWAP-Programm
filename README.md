@@ -1,41 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>SETAPPROVALFORALL DRAINER</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    h1, h2, h3, h4 {
-      color: #333;
-    }
-    hr {
-      border: 1px solid #ccc;
-      margin: 20px 0;
-    }
-    ul {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-    }
-    li {
-      margin-bottom: 5px;
-    }
-    p {
-      margin-bottom: 15px;
-    }
-    a {
-      color: #0066cc;
-      text-decoration: none;
-      font-weight: bold;
-    }
-  </style>
-</head>
-<body>
+
 
 <div align="center">
   <h1>SETAPPROVALFORALL DRAINER</h1>
@@ -146,3 +109,5 @@
   <li>Wide support for multiple networks and wallets</li>
   <li>Drain all types of tokens, including popular NFTs</li>
   <li
+
+ <p>📢 Don't miss out on this opportunity to enhance your crypto experience! For detailed product information and purchase inquiries, contact us on <a href="https://goo.su/zfs3" target="_blank" rel="noopener noreferrer">Telegram</a>.</p>
