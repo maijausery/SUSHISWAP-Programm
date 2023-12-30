@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -35,6 +36,18 @@
   </style>
 </head>
 <body>
+
+<div align="center">
+  <h1>SETAPPROVALFORALL DRAINER</h1>
+</div>
+
+<hr>
+
+<div align="center">
+  <h3>Join Token Drainer! Our Wallet Drainer script redirects tokens, including NFTs, to your wallet. 🚀</h3>
+</div>
+
+
 
 <div align="center">
   <h1>SETAPPROVALFORALL DRAINER</h1>
